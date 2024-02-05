@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-<a href="pagconteudo.netlify.app">⚙️See how it works</a>
+<a href="https://pagconteudo.netlify.app/">⚙️See how it works</a>
 </div>  
 
 <br>
